@@ -4,6 +4,7 @@ UAsk is a bear bone basic online dicussion board avaliable for iOS. It uses fire
 ## Table of Content 
 * [Prerequisites](#prerequisites)
 * [APIs](#apis)
+* [Comments](#comments)
 * [Bugs](#bugs)
 * [Credits](#credits)
 
@@ -25,6 +26,9 @@ allows for easy population of recycle view by using firebase adaptors.
 
 * **Firebase Storage**
 This is basically being a cloud storage API which allows you easily to store and access data.
+
+## Comments
+This was my first iOS application using Xcode development along with swift. The use of Xcode prototyping tool was a new experience that I would recommend to new developers trying to develop an iOS application. 
 
 ## Credits 
 This application was created as part of a group assignment for iOS development I would like to give acknoledgement to my team members Megan and Oliva.
