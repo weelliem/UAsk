@@ -31,7 +31,12 @@ This is basically being a cloud storage API which allows you easily to store and
 This was my first iOS application using Xcode development along with swift. The use of Xcode prototyping tool was a new experience that I would recommend to new developers trying to develop an iOS application. 
 
 ## Credits 
-This application was created as part of a group assignment for iOS development I would like to give acknowledgement to my team members Megan and Oliva.
+This application was created as part of a group assignment for iOS development I would like to give acknowledgement to my team members [Megan](https://github.com/meganf00) and [Oliva](https://github.com/OliviaTad).
+
+This is the link to the original Group Link for our student accounts
+
+[Group 185 iOS development](https://github.com/uts-ios-dev/uts-ios-2019-project3-group-185?fbclid=IwAR33Bgio2ASok0s4d7CeUX5CP61KGnuNcQrY_t8__61cEyumq-AWgxmGnjU)
+
 
 © William Hong 2020
 
