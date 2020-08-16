@@ -13,9 +13,23 @@ UAsk is a bear bone basic online dicussion board avaliable for iOS. It uses fire
 It is recommended that you have the latest version of swift **5.0** upon the creation of this application an iPhone X 2018 was used. To check your deployable devices **Window > Devices and Simulators (Shift+Cmd+2)**.
 
 ## APIs
-* **Google Firebase Database**
+* **Google Firebase Firestore**
 This is the real-time cloud hosed database for Firebase it uses and scalable NoSQL which stores data
 as JSON.
+
+* **Cocoa touch**
+Cocoa Touch is the application development environment for building software programs to run on iOS for the iPhone and iPod Touch, iPadOS for the iPad, watchOS for the Apple Watch, and tvOS for the fourth-generation Apple TV, from Apple Inc.
+
+Cocoa Touch provides an abstraction layer of iOS, the operating system for the iPhone, iPod Touch, and iPad. Cocoa Touch is based on the macOS Cocoa API toolset and, like it, is primarily written in the Objective-C language. Cocoa Touch allows the use of hardware and features that are not found in macOS computers and are thus unique to the iOS range of devices. Just like Cocoa, Cocoa Touch follows a Model-View-Controller (MVC) software architecture.
+
+ * **CocoaPods** 
+ Cocoa Pods API is a wrapper for the AFNetworking framework. API allows for easy API creation within one's app, so that time when can be saved.
+ 
+ * **Xib files** 
+ A xib file usually specifies one view controller or menu bar. A storyboard specifies a set of view controllers and segues between those controllers. Unlike a xib, a storyboard can contain many view controllers and the transitions between them.
+ 
+ * **UIkit**
+The UIKit framework provides the core objects that you need to build apps for iOS and tvOS. You use these objects to display your content onscreen, to interact with that content, and to manage interactions with the system. Apps rely on UIKit for their basic behavior, and UIKit provides many ways for you to customize that behavior to match your specific needs.
 
 * **Firebase Authentication**
 Firebase Authentication API provides backend services to support either your own custom user
