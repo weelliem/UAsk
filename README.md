@@ -18,9 +18,7 @@ This is the real-time cloud hosed database for Firebase it uses and scalable NoS
 as JSON.
 
 * **Cocoa touch**
-Cocoa Touch is the application development environment for building software programs to run on iOS for the iPhone and iPod Touch, iPadOS for the iPad, watchOS for the Apple Watch, and tvOS for the fourth-generation Apple TV, from Apple Inc.
-
-Cocoa Touch provides an abstraction layer of iOS, the operating system for the iPhone, iPod Touch, and iPad. Cocoa Touch is based on the macOS Cocoa API toolset and, like it, is primarily written in the Objective-C language. Cocoa Touch allows the use of hardware and features that are not found in macOS computers and are thus unique to the iOS range of devices. Just like Cocoa, Cocoa Touch follows a Model-View-Controller (MVC) software architecture.
+Cocoa Touch is the application development environment for building software programs to run on iOS for the iPhone and iPod Touch, iPadOS for the iPad, watchOS for the Apple Watch, and tvOS for the fourth-generation Apple TV, from Apple Inc. Cocoa Touch provides an abstraction layer of iOS, the operating system for the iPhone, iPod Touch, and iPad. Cocoa Touch is based on the macOS Cocoa API toolset and, like it, is primarily written in the Objective-C language. Cocoa Touch allows the use of hardware and features that are not found in macOS computers and are thus unique to the iOS range of devices. Just like Cocoa, Cocoa Touch follows a Model-View-Controller (MVC) software architecture.
 
  * **CocoaPods** 
  Cocoa Pods API is a wrapper for the AFNetworking framework. API allows for easy API creation within one's app, so that time when can be saved.
